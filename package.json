@@ -1,0 +1,20 @@
+{
+  "name": "mini-cake",
+  "version": "0.1.0",
+  "description": "A minimalistic Rake implementation written in CoffeeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coffeescript",
+    "cake",
+    "make",
+    "rake"
+  ],
+  "author": "Rafael Soares <rafasoaresms@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.9.1"
+  }
+}
